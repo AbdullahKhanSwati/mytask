@@ -1,0 +1,21 @@
+.row{
+    /* border: 2px solid red; */
+    /* display: flex; */
+    /* border: 2px solid red; */
+margin-top: 80px;
+}
+.coupen1{
+    display: flex;
+    /* border: 2px solid red; */
+    flex-direction: column;
+    align-items: center;
+
+}
+.coupen2{
+    border-left: 5px  solid #f58d42;
+}
+li{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #f58d42;
+}
